@@ -7,7 +7,7 @@ Built with the dexterity of JavaScript, SecuriKey is a marvel that generates pas
 
 Fancy a 50-character long password humming with numbers, symbols, and a mix of lowercase and uppercase letters? SecuriKey will serve it up in a heartbeat. Or do you like a bit of whimsy? Our "Fruit Salad" option adds a dash of fun to your passwords, turning 'apple', 'kiwi', 'mango', and their friends into secret code language. But don't be fooled by the fun; these passwords are still as tough as they come! 
 
-Our sleek HTML5 and CSS3 interface isn't just eye candy - it's thoughtfully designed to guide you smoothly through your password creation journey. No more fumbling through confusing controls or getting lost in translation. SecuriKey isn't just a tool; it's a revolution in safeguarding your online accounts. It's not just about creating passwords; it's about empowering you to take control of your online security, one password at a time. So join the revolution and turn the key to a more secure digital world!
+Our sleek HTML5 and CSS3 interface isn't just eye candy - it's thoughtfully designed to guide you smoothly through your password creation journey. No more fumbling through confusing controls or getting lost in translation. SecuriKey isn't just a tool; it's a revolution in safeguarding your online accounts. It's not just about creating passwords; it's about empowering you to take control of your online security, one password at a time. So join the revolution and turn the key to a more secure digital world!!
 
 ## Features
 - <b>Secure Password Generation</b>:
